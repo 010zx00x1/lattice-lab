@@ -24,9 +24,10 @@ Lattice Lab is an independent, experimental CAD workflow for importing a part, g
 
 ## From part to mesh
 
-| 01 · Prepare | 02 · Design | 03 · Explore | 04 · Export |
-| --- | --- | --- | --- |
-| Open one of six examples or import STL, STEP, or 3MF. Inspect and repair basic mesh defects. | Choose a TPMS, beam, or approximate stochastic pattern. Tune cells, walls, skins, and local zones. | Review approximate elastic, thermal, and channel responses, plus connectivity and printability indicators. | Validate the generated mesh and download STL or 3MF for further inspection. |
+1. **Prepare a part.** Open one of six examples or import STL, STEP, or 3MF, then inspect the mesh.
+2. **Design the interior.** Choose a TPMS, beam, or approximate stochastic pattern; tune cells, walls, and skins.
+3. **Explore the result.** Review approximate elastic, thermal, and channel responses alongside printability indicators.
+4. **Take the mesh further.** Validate the generated geometry and download STL or 3MF for further inspection.
 
 ## Highlights
 
