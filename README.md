@@ -1,12 +1,32 @@
+<div align="center">
+
 # Lattice Lab
 
-**Explore lattice structures inside your own 3D parts, directly in the browser.**
+**Design lattice structures inside 3D parts, directly in your browser.**
+
+Import a part · explore geometry · compare approximate responses · export a printable mesh
+
+[![CI](https://github.com/010zx00x1/lattice-lab/actions/workflows/ci.yml/badge.svg)](https://github.com/010zx00x1/lattice-lab/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/license-MIT-0f766e.svg)](LICENSE)
+![Browser-based](https://img.shields.io/badge/runs-in%20your%20browser-173c40.svg)
+
+[Quick start](#quick-start) · [Workflow](#from-part-to-mesh) · [Architecture](docs/ARCHITECTURE.md) · [Contribute](CONTRIBUTING.md)
+
+</div>
+
+![Animated tour highlighting the generated lattice, design controls, workflow, and export action in Lattice Lab](docs/images/lattice-lab-tour.gif)
+
+<p align="center"><sub>An animated tour of the current editor interface, shown with the included hinge bracket example.</sub></p>
 
 Lattice Lab is an independent, experimental CAD workflow for importing a part, generating an internal lattice, exploring approximate structural and thermal responses, and exporting a printable mesh. Part geometry is processed locally in the browser. It is not affiliated with IMPLICIT.
 
-![Lattice Lab showing a Gyroid lattice inside the included hinge bracket example](docs/images/lattice-lab-preview.png)
-
 > **Project status:** Active prototype. Analysis and manufacturing checks are exploratory, not engineering certification. See the [feature parity and validation checklist](PARITY.md) for verified capabilities and remaining work.
+
+## From part to mesh
+
+| 01 · Prepare | 02 · Design | 03 · Explore | 04 · Export |
+| --- | --- | --- | --- |
+| Open one of six examples or import STL, STEP, or 3MF. Inspect and repair basic mesh defects. | Choose a TPMS, beam, or approximate stochastic pattern. Tune cells, walls, skins, and local zones. | Review approximate elastic, thermal, and channel responses, plus connectivity and printability indicators. | Validate the generated mesh and download STL or 3MF for further inspection. |
 
 ## Highlights
 
