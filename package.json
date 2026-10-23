@@ -1,0 +1,24 @@
+{
+  "name": "lattice-lab",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Experimental browser-based lattice design and analysis tool",
+  "packageManager": "pnpm@11.25.0",
+  "engines": {
+    "node": "^20.19.0 || >=22.12.0"
+  },
+  "scripts": {
+    "build": "vite build",
+    "dev": "vite --host 0.0.0.0",
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "fflate": "^0.8.3",
+    "occt-import-js": "^0.0.23",
+    "three": "^0.186.1",
+    "three-mesh-bvh": "^0.9.16",
+    "vite": "^8.3.4"
+  }
+}

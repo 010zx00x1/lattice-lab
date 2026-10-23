@@ -1,0 +1,860 @@
+{
+  "method": "Cubo propio de 20 mm; celda de 10 mm; carga axial X; rejillas de 12 y 16 vóxeles; ocho muestras por vóxel; E isotrópico de 1000 MPa y ν=0,30; apoyo X− y 10 N en X+.",
+  "entries": [
+    {
+      "pattern": "gyroid",
+      "form": "sheet",
+      "wall": 0.28,
+      "density": 0.5625,
+      "relativeModulus": 0.3047,
+      "densityResolutionRange": [
+        0.5625,
+        0.7037
+      ],
+      "modulusResolutionRange": [
+        0.30469999999999997,
+        0.5243
+      ]
+    },
+    {
+      "pattern": "gyroid",
+      "form": "sheet",
+      "wall": 0.36,
+      "density": 0.8125,
+      "relativeModulus": 0.6933,
+      "densityResolutionRange": [
+        0.7037,
+        0.8125
+      ],
+      "modulusResolutionRange": [
+        0.5243,
+        0.6932999999999999
+      ]
+    },
+    {
+      "pattern": "gyroid",
+      "form": "sheet",
+      "wall": 0.44,
+      "density": 1,
+      "relativeModulus": 1.0127,
+      "densityResolutionRange": [
+        1,
+        1
+      ],
+      "modulusResolutionRange": [
+        1.0036,
+        1.0127000000000002
+      ]
+    },
+    {
+      "pattern": "gyroid",
+      "form": "network",
+      "wall": 0.2,
+      "density": 0.5,
+      "relativeModulus": 0.2008,
+      "densityResolutionRange": [
+        0.5,
+        0.5185
+      ],
+      "modulusResolutionRange": [
+        0.2008,
+        0.22130000000000002
+      ]
+    },
+    {
+      "pattern": "gyroid",
+      "form": "network",
+      "wall": 0.28,
+      "density": 0.5,
+      "relativeModulus": 0.2008,
+      "densityResolutionRange": [
+        0.5,
+        0.5185
+      ],
+      "modulusResolutionRange": [
+        0.2008,
+        0.22130000000000002
+      ]
+    },
+    {
+      "pattern": "gyroid",
+      "form": "network",
+      "wall": 0.36,
+      "density": 0.6875,
+      "relativeModulus": 0.357,
+      "densityResolutionRange": [
+        0.5185,
+        0.6875
+      ],
+      "modulusResolutionRange": [
+        0.22130000000000002,
+        0.357
+      ]
+    },
+    {
+      "pattern": "gyroid",
+      "form": "network",
+      "wall": 0.44,
+      "density": 0.7813,
+      "relativeModulus": 0.563,
+      "densityResolutionRange": [
+        0.7407,
+        0.7813
+      ],
+      "modulusResolutionRange": [
+        0.495,
+        0.563
+      ]
+    },
+    {
+      "pattern": "schwarz",
+      "form": "sheet",
+      "wall": 0.2,
+      "density": 0.375,
+      "relativeModulus": 0.1423,
+      "densityResolutionRange": [
+        0.375,
+        0.7037
+      ],
+      "modulusResolutionRange": [
+        0.1423,
+        0.5214
+      ]
+    },
+    {
+      "pattern": "schwarz",
+      "form": "sheet",
+      "wall": 0.28,
+      "density": 0.6875,
+      "relativeModulus": 0.4779,
+      "densityResolutionRange": [
+        0.6875,
+        0.7037
+      ],
+      "modulusResolutionRange": [
+        0.4779,
+        0.5214
+      ]
+    },
+    {
+      "pattern": "schwarz",
+      "form": "sheet",
+      "wall": 0.36,
+      "density": 0.6875,
+      "relativeModulus": 0.4779,
+      "densityResolutionRange": [
+        0.6875,
+        0.7037
+      ],
+      "modulusResolutionRange": [
+        0.4779,
+        0.5214
+      ]
+    },
+    {
+      "pattern": "schwarz",
+      "form": "sheet",
+      "wall": 0.44,
+      "density": 0.7813,
+      "relativeModulus": 0.6378,
+      "densityResolutionRange": [
+        0.7037,
+        0.7813
+      ],
+      "modulusResolutionRange": [
+        0.5214,
+        0.6377999999999999
+      ]
+    },
+    {
+      "pattern": "schwarz",
+      "form": "network",
+      "wall": 0.2,
+      "density": 0.5,
+      "relativeModulus": 0.2568,
+      "densityResolutionRange": [
+        0.4074,
+        0.5
+      ],
+      "modulusResolutionRange": [
+        0.15819999999999998,
+        0.25680000000000003
+      ]
+    },
+    {
+      "pattern": "schwarz",
+      "form": "network",
+      "wall": 0.28,
+      "density": 0.5,
+      "relativeModulus": 0.2568,
+      "densityResolutionRange": [
+        0.5,
+        0.6296
+      ],
+      "modulusResolutionRange": [
+        0.25680000000000003,
+        0.4327
+      ]
+    },
+    {
+      "pattern": "schwarz",
+      "form": "network",
+      "wall": 0.36,
+      "density": 0.6875,
+      "relativeModulus": 0.4931,
+      "densityResolutionRange": [
+        0.6296,
+        0.6875
+      ],
+      "modulusResolutionRange": [
+        0.4327,
+        0.49310000000000004
+      ]
+    },
+    {
+      "pattern": "schwarz",
+      "form": "network",
+      "wall": 0.44,
+      "density": 0.6875,
+      "relativeModulus": 0.4931,
+      "densityResolutionRange": [
+        0.6296,
+        0.6875
+      ],
+      "modulusResolutionRange": [
+        0.4327,
+        0.49310000000000004
+      ]
+    },
+    {
+      "pattern": "diamond",
+      "form": "sheet",
+      "wall": 0.28,
+      "density": 0.75,
+      "relativeModulus": 0.627,
+      "densityResolutionRange": [
+        0.6667,
+        0.75
+      ],
+      "modulusResolutionRange": [
+        0.5585,
+        0.627
+      ]
+    },
+    {
+      "pattern": "diamond",
+      "form": "sheet",
+      "wall": 0.36,
+      "density": 0.875,
+      "relativeModulus": 0.8474,
+      "densityResolutionRange": [
+        0.875,
+        0.9259
+      ],
+      "modulusResolutionRange": [
+        0.8473999999999999,
+        0.8971
+      ]
+    },
+    {
+      "pattern": "diamond",
+      "form": "sheet",
+      "wall": 0.44,
+      "density": 1,
+      "relativeModulus": 1.0127,
+      "densityResolutionRange": [
+        1,
+        1
+      ],
+      "modulusResolutionRange": [
+        1.0036,
+        1.0127000000000002
+      ]
+    },
+    {
+      "pattern": "diamond",
+      "form": "network",
+      "wall": 0.2,
+      "density": 0.5,
+      "relativeModulus": 0.1829,
+      "densityResolutionRange": [
+        0.5,
+        0.5
+      ],
+      "modulusResolutionRange": [
+        0.1829,
+        0.1921
+      ]
+    },
+    {
+      "pattern": "diamond",
+      "form": "network",
+      "wall": 0.28,
+      "density": 0.5,
+      "relativeModulus": 0.1829,
+      "densityResolutionRange": [
+        0.5,
+        0.6111
+      ],
+      "modulusResolutionRange": [
+        0.1829,
+        0.3526
+      ]
+    },
+    {
+      "pattern": "diamond",
+      "form": "network",
+      "wall": 0.36,
+      "density": 0.6875,
+      "relativeModulus": 0.4324,
+      "densityResolutionRange": [
+        0.6111,
+        0.6875
+      ],
+      "modulusResolutionRange": [
+        0.3526,
+        0.43239999999999995
+      ]
+    },
+    {
+      "pattern": "diamond",
+      "form": "network",
+      "wall": 0.44,
+      "density": 0.6875,
+      "relativeModulus": 0.4324,
+      "densityResolutionRange": [
+        0.6875,
+        0.8333
+      ],
+      "modulusResolutionRange": [
+        0.43239999999999995,
+        0.7279
+      ]
+    },
+    {
+      "pattern": "iwp",
+      "form": "sheet",
+      "wall": 0.28,
+      "density": 0.6563,
+      "relativeModulus": 0.4969,
+      "densityResolutionRange": [
+        0.6563,
+        0.6667
+      ],
+      "modulusResolutionRange": [
+        0.49689999999999995,
+        0.584
+      ]
+    },
+    {
+      "pattern": "iwp",
+      "form": "sheet",
+      "wall": 0.36,
+      "density": 0.8438,
+      "relativeModulus": 0.779,
+      "densityResolutionRange": [
+        0.8438,
+        0.9259
+      ],
+      "modulusResolutionRange": [
+        0.779,
+        0.8756
+      ]
+    },
+    {
+      "pattern": "iwp",
+      "form": "sheet",
+      "wall": 0.44,
+      "density": 0.9063,
+      "relativeModulus": 0.8559,
+      "densityResolutionRange": [
+        0.9063,
+        1
+      ],
+      "modulusResolutionRange": [
+        0.8559,
+        1.0036
+      ]
+    },
+    {
+      "pattern": "iwp",
+      "form": "network",
+      "wall": 0.2,
+      "density": 0.5313,
+      "relativeModulus": 0.2404,
+      "densityResolutionRange": [
+        0.5313,
+        0.5556
+      ],
+      "modulusResolutionRange": [
+        0.2371,
+        0.2404
+      ]
+    },
+    {
+      "pattern": "iwp",
+      "form": "network",
+      "wall": 0.28,
+      "density": 0.7188,
+      "relativeModulus": 0.4716,
+      "densityResolutionRange": [
+        0.5556,
+        0.7188
+      ],
+      "modulusResolutionRange": [
+        0.2371,
+        0.4716
+      ]
+    },
+    {
+      "pattern": "iwp",
+      "form": "network",
+      "wall": 0.36,
+      "density": 0.7188,
+      "relativeModulus": 0.4716,
+      "densityResolutionRange": [
+        0.5556,
+        0.7188
+      ],
+      "modulusResolutionRange": [
+        0.2371,
+        0.4716
+      ]
+    },
+    {
+      "pattern": "iwp",
+      "form": "network",
+      "wall": 0.44,
+      "density": 0.7188,
+      "relativeModulus": 0.4716,
+      "densityResolutionRange": [
+        0.7188,
+        0.7778
+      ],
+      "modulusResolutionRange": [
+        0.4716,
+        0.6769
+      ]
+    },
+    {
+      "pattern": "neovius",
+      "form": "sheet",
+      "wall": 0.36,
+      "density": 0.75,
+      "relativeModulus": 0.5991,
+      "densityResolutionRange": [
+        0.7037,
+        0.75
+      ],
+      "modulusResolutionRange": [
+        0.5214,
+        0.5991000000000001
+      ]
+    },
+    {
+      "pattern": "neovius",
+      "form": "sheet",
+      "wall": 0.44,
+      "density": 0.7813,
+      "relativeModulus": 0.6378,
+      "densityResolutionRange": [
+        0.7037,
+        0.7813
+      ],
+      "modulusResolutionRange": [
+        0.5214,
+        0.6377999999999999
+      ]
+    },
+    {
+      "pattern": "neovius",
+      "form": "network",
+      "wall": 0.36,
+      "density": 0.6875,
+      "relativeModulus": 0.5213,
+      "densityResolutionRange": [
+        0.6875,
+        0.7407
+      ],
+      "modulusResolutionRange": [
+        0.5213,
+        0.6199
+      ]
+    },
+    {
+      "pattern": "neovius",
+      "form": "network",
+      "wall": 0.44,
+      "density": 0.7344,
+      "relativeModulus": 0.5905,
+      "densityResolutionRange": [
+        0.7344,
+        0.7407
+      ],
+      "modulusResolutionRange": [
+        0.5905,
+        0.6199
+      ]
+    },
+    {
+      "pattern": "fks",
+      "form": "sheet",
+      "wall": 0.36,
+      "density": 0.8125,
+      "relativeModulus": 0.7749,
+      "densityResolutionRange": [
+        0.8125,
+        1
+      ],
+      "modulusResolutionRange": [
+        0.7748999999999999,
+        1.0036
+      ]
+    },
+    {
+      "pattern": "fks",
+      "form": "sheet",
+      "wall": 0.44,
+      "density": 1,
+      "relativeModulus": 1.0127,
+      "densityResolutionRange": [
+        1,
+        1
+      ],
+      "modulusResolutionRange": [
+        1.0036,
+        1.0127000000000002
+      ]
+    },
+    {
+      "pattern": "fks",
+      "form": "network",
+      "wall": 0.2,
+      "density": 0.5,
+      "relativeModulus": 0.2308,
+      "densityResolutionRange": [
+        0.4074,
+        0.5
+      ],
+      "modulusResolutionRange": [
+        0.1772,
+        0.2308
+      ]
+    },
+    {
+      "pattern": "fks",
+      "form": "network",
+      "wall": 0.28,
+      "density": 0.5,
+      "relativeModulus": 0.2308,
+      "densityResolutionRange": [
+        0.5,
+        0.6296
+      ],
+      "modulusResolutionRange": [
+        0.2308,
+        0.4633
+      ]
+    },
+    {
+      "pattern": "fks",
+      "form": "network",
+      "wall": 0.36,
+      "density": 0.6875,
+      "relativeModulus": 0.5163,
+      "densityResolutionRange": [
+        0.6296,
+        0.6875
+      ],
+      "modulusResolutionRange": [
+        0.4633,
+        0.5163
+      ]
+    },
+    {
+      "pattern": "fks",
+      "form": "network",
+      "wall": 0.44,
+      "density": 0.7813,
+      "relativeModulus": 0.6675,
+      "densityResolutionRange": [
+        0.7407,
+        0.7813
+      ],
+      "modulusResolutionRange": [
+        0.6222000000000001,
+        0.6675
+      ]
+    },
+    {
+      "pattern": "frd",
+      "form": "sheet",
+      "wall": 0.36,
+      "density": 0.9375,
+      "relativeModulus": 0.8979,
+      "densityResolutionRange": [
+        0.6667,
+        0.9375
+      ],
+      "modulusResolutionRange": [
+        0.584,
+        0.8979
+      ]
+    },
+    {
+      "pattern": "frd",
+      "form": "sheet",
+      "wall": 0.44,
+      "density": 0.9375,
+      "relativeModulus": 0.8979,
+      "densityResolutionRange": [
+        0.9375,
+        0.963
+      ],
+      "modulusResolutionRange": [
+        0.8979,
+        0.9586
+      ]
+    },
+    {
+      "pattern": "frd",
+      "form": "network",
+      "wall": 0.36,
+      "density": 0.8125,
+      "relativeModulus": 0.7157,
+      "densityResolutionRange": [
+        0.8125,
+        0.8148
+      ],
+      "modulusResolutionRange": [
+        0.7092,
+        0.7157
+      ]
+    },
+    {
+      "pattern": "frd",
+      "form": "network",
+      "wall": 0.44,
+      "density": 0.875,
+      "relativeModulus": 0.8214,
+      "densityResolutionRange": [
+        0.8148,
+        0.875
+      ],
+      "modulusResolutionRange": [
+        0.7092,
+        0.8214
+      ]
+    },
+    {
+      "pattern": "fcy",
+      "form": "sheet",
+      "wall": 0.28,
+      "density": 0.6875,
+      "relativeModulus": 0.5542,
+      "densityResolutionRange": [
+        0.6875,
+        0.7407
+      ],
+      "modulusResolutionRange": [
+        0.5542,
+        0.6225
+      ]
+    },
+    {
+      "pattern": "fcy",
+      "form": "sheet",
+      "wall": 0.36,
+      "density": 0.7813,
+      "relativeModulus": 0.6844,
+      "densityResolutionRange": [
+        0.7813,
+        0.8519
+      ],
+      "modulusResolutionRange": [
+        0.6844,
+        0.801
+      ]
+    },
+    {
+      "pattern": "fcy",
+      "form": "sheet",
+      "wall": 0.44,
+      "density": 0.9063,
+      "relativeModulus": 0.8413,
+      "densityResolutionRange": [
+        0.9063,
+        1
+      ],
+      "modulusResolutionRange": [
+        0.8412999999999999,
+        1.0036
+      ]
+    },
+    {
+      "pattern": "fcy",
+      "form": "network",
+      "wall": 0.2,
+      "density": 0.5,
+      "relativeModulus": 0.1887,
+      "densityResolutionRange": [
+        0.5,
+        0.5
+      ],
+      "modulusResolutionRange": [
+        0.18869999999999998,
+        0.2088
+      ]
+    },
+    {
+      "pattern": "fcy",
+      "form": "network",
+      "wall": 0.28,
+      "density": 0.5,
+      "relativeModulus": 0.1887,
+      "densityResolutionRange": [
+        0.5,
+        0.6111
+      ],
+      "modulusResolutionRange": [
+        0.18869999999999998,
+        0.3366
+      ]
+    },
+    {
+      "pattern": "fcy",
+      "form": "network",
+      "wall": 0.36,
+      "density": 0.6875,
+      "relativeModulus": 0.5008,
+      "densityResolutionRange": [
+        0.6667,
+        0.6875
+      ],
+      "modulusResolutionRange": [
+        0.42,
+        0.5008
+      ]
+    },
+    {
+      "pattern": "fcy",
+      "form": "network",
+      "wall": 0.44,
+      "density": 0.7344,
+      "relativeModulus": 0.5688,
+      "densityResolutionRange": [
+        0.6852,
+        0.7344
+      ],
+      "modulusResolutionRange": [
+        0.4802,
+        0.5688
+      ]
+    },
+    {
+      "pattern": "cubic",
+      "form": "beam",
+      "wall": 0.44,
+      "density": 0.1563,
+      "relativeModulus": 0.0508,
+      "densityResolutionRange": [
+        0.1563,
+        0.2593
+      ],
+      "modulusResolutionRange": [
+        0.0508,
+        0.11090000000000001
+      ]
+    },
+    {
+      "pattern": "bcc",
+      "form": "beam",
+      "wall": 0.44,
+      "density": 0.3438,
+      "relativeModulus": 0.0485,
+      "densityResolutionRange": [
+        0.3438,
+        0.5556
+      ],
+      "modulusResolutionRange": [
+        0.0485,
+        0.2371
+      ]
+    },
+    {
+      "pattern": "fcc",
+      "form": "beam",
+      "wall": 0.44,
+      "density": 0.3906,
+      "relativeModulus": 0.1572,
+      "densityResolutionRange": [
+        0.3906,
+        0.5926
+      ],
+      "modulusResolutionRange": [
+        0.15719999999999998,
+        0.424
+      ]
+    },
+    {
+      "pattern": "octa",
+      "form": "beam",
+      "wall": 0.36,
+      "density": 0.375,
+      "relativeModulus": 0.1732,
+      "densityResolutionRange": [
+        0.3333,
+        0.375
+      ],
+      "modulusResolutionRange": [
+        0.1461,
+        0.1732
+      ]
+    },
+    {
+      "pattern": "octa",
+      "form": "beam",
+      "wall": 0.44,
+      "density": 0.375,
+      "relativeModulus": 0.1732,
+      "densityResolutionRange": [
+        0.375,
+        0.5556
+      ],
+      "modulusResolutionRange": [
+        0.1732,
+        0.359
+      ]
+    },
+    {
+      "pattern": "octet",
+      "form": "beam",
+      "wall": 0.36,
+      "density": 0.625,
+      "relativeModulus": 0.4252,
+      "densityResolutionRange": [
+        0.625,
+        0.8148
+      ],
+      "modulusResolutionRange": [
+        0.42519999999999997,
+        0.7092
+      ]
+    },
+    {
+      "pattern": "octet",
+      "form": "beam",
+      "wall": 0.44,
+      "density": 0.625,
+      "relativeModulus": 0.4252,
+      "densityResolutionRange": [
+        0.625,
+        0.8148
+      ],
+      "modulusResolutionRange": [
+        0.42519999999999997,
+        0.7092
+      ]
+    }
+  ]
+}

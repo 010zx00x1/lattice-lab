@@ -1,0 +1,40 @@
+name: Bug report
+description: Report a reproducible defect in the editor or its output.
+title: "[Bug] "
+body:
+  - type: markdown
+    attributes:
+      value: "Please share only parts or project files you have permission to publish. Saved projects contain the source geometry."
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: Include the input format, example or part, lattice settings, and actions taken.
+      placeholder: "1. Open the hinge example\n2. Choose Gyroid..."
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected result
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual result
+      description: Include error messages and screenshots if available.
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Browser and operating system
+      placeholder: "Firefox 147 on Linux"
+    validations:
+      required: true
+  - type: textarea
+    id: size
+    attributes:
+      label: Geometry and performance details
+      description: Optional. Include input/output triangle counts, WebGL availability, and generation time when relevant.

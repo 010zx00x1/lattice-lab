@@ -1,0 +1,23 @@
+name: Feature request
+description: Suggest a workflow or capability for the prototype.
+title: "[Feature] "
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem to solve
+      description: Describe the task you cannot complete today.
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed behavior
+      description: Include an example part or workflow if helpful.
+    validations:
+      required: true
+  - type: textarea
+    id: validation
+    attributes:
+      label: How would you verify it?
+      description: Describe the expected geometry, output, or measurable result.
